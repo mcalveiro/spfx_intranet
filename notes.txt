@@ -1,0 +1,4 @@
+1) Una vez que ejecuto gulp serve, debo ingresar aquí: https://localhost:4321/temp/manifests.js,
+y aceptar el manifest, para que pueda luego cargar el webparts. 
+
+Pero el proyecto, se lanzó. 
